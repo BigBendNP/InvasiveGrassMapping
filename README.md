@@ -1,4 +1,4 @@
-#InvasiveGrassMapping
+## InvasiveGrassMapping
 
 Exotics_XArray_SatelliteDownload_to_zarr.ipynb is a notebook that pulls in Landsat data from AWS specific to the Big Bend area and the dates of interest. It also masks the data by grass polygon location.
 
